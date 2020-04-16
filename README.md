@@ -1,4 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+there are some external modules installed , Install them using corresponding commands:
+1. React Grid System using npm i react-grid-system
+2. React icons using npm install react-icons --save
+3. React player using npm install react-player --save
+
 
 ## Available Scripts
 
